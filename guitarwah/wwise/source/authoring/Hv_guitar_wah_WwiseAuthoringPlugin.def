@@ -1,0 +1,6 @@
+; Hv_guitar_wah_WwiseFXAuthPlugin.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Hv_guitar_wah_WwiseFXAuthPlugin"
+
+EXPORTS
+    AkCreatePlugin
